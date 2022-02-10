@@ -1,0 +1,18 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+#header {
+    border: solid green 5px;
+border-radius: 10px;
+width: 15%;
+height: auto;
+background-color: green;
+padding: 5px;
+margin: auto;
+}
+button {
+    display: block; 
+    background-color: red;
+    
+}
